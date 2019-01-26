@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= danger
+game= dangerhelp
+stayinchannel=true
+songinstatus=true 
+token=NTM4NzgyODgxMTE2NTg1OTk3.Dy41IQ.3KeNAW7E4bhq6Pl7fL5vsctQcmE
+owner=505072087287726090
